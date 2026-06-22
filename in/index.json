@@ -2,114 +2,72 @@
     "chair": [
         {
             "price": 50,
-            "sale": 20,
-            "website": "azamon.netz"
+            "sale": 50
         },
         {
-            "price": 40,
-            "sale": 15,
-            "website": "ausiran.netz"
+            "price": 60,
+            "sale": 70
         },
         {
-            "price": 70,
-            "sale": 50,
-            "website": "alexexpress.scam"
+            "price": 55,
+            "sale": 60
         }
     ],
     "table": [
         {
             "price": 100,
-            "sale":20,
-            "website": "azamon.netz"
+            "sale": 70
         },
         {
             "price": 111,
-            "sale": 29,
-            "website": "ausiran.netz"
+            "sale": 80
         },
         {
-            "price": 200,
-            "sale": 60,
-            "website": "alexexpress.scam"
-        },
-        {
-            "price": 150,
-            "sale": 80,
-            "website": "knast.de"
-        }
-    ],
-    "bed": [
-        {
-            "price": 300,
-            "sale": 70,
-            "website": "azamon.netz"
-        },
-        {
-            "price": 350,
-            "sale": 85,
-            "website": "ausiran.netz"
-        },
-        {
-            "price": 200,
-            "sale": 20,
-            "website": "alexexpress.scam"
+            "price": 120,
+            "sale": 88
         }
     ],
     "closet": [
         {
-            "price": 400,
-            "sale": 76,
-            "website": "ausiran.netz"
+            "price": 200,
+            "sale": 66
         },
         {
-            "price": 430,
-            "sale": 80,
-            "website": "alexexpress.scam"
+            "price": 190,
+            "sale": 55
         },
         {
-            "price": 410,
-            "sale": 78,
-            "website": "azamon.netz"
+            "price": 195,
+            "sale": 60
         }
     ],
     "random ah pflanze": [
         {
             "price": 10,
-            "sale": 5,
-            "website": "knast.de"
+            "sale": 10
+        },
+        {
+            "price": 20,
+            "sale": 30
         },
         {
             "price": 15,
-            "sale": 50,
-            "website": "azamon.netz"
-        },
-        {
-            "price": 5,
-            "sale": 2,
-            "website": "ausiran.netz"
-        },
-        {
-            "price": 4,
-            "sale": 20,
-            "website": "alexexpress.scam"
+            "sale": 25
         }
     ],
     "picture": [
         {
-            "price": 20,
-            "sale": 10,
-            "website": "azamon.netz"
+            "price": 5,
+            "sale": 50
         },
         {
-            "price": 15,
-            "sale": 7,
-            "website": "ausiran.netz"
+            "price": 7,
+            "sale": 70
         },
         {
-            "price": 17,
-            "sale": 9,
-            "website": "alexexpress.scam"
+            "price": 3,
+            "sale": 1
         }
     ]
-
+    
 }
